@@ -21,7 +21,7 @@
 
 **Source Code:**
 
-👉 https://github.com/skmursalim9779-create/RevenueShield
+👉 https://github.com/rahamanmursalim-create/RevenueShield
 
 > **Demo note:** The public deployment can run in **Built-in Simulator / Demo Mode** because the original `hotel_bookings.csv` dataset is intentionally not committed to the repository. Reviewers can upload the real CSV through the application sidebar to switch to real-data analysis.
 
